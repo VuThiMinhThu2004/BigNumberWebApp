@@ -366,3 +366,83 @@ Nov 02, 2024 4:20:25 PM com.example.utils.MyBigNumber sum
 INFO: Bước 3: Lấy 9 cộng 0 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
 Nov 02, 2024 4:20:25 PM com.example.utils.MyBigNumber sum
 INFO: Thêm phần nhớ cuối cùng 1 vào kết quả.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 1: Lấy 1 cộng 9 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 2: Lấy 0 cộng 9 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Thêm phần nhớ cuối cùng 1 vào kết quả.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 1: Lấy 9 cộng 1 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 2: Lấy 8 cộng 2 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 3: Lấy 7 cộng 3 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 4: Lấy 6 cộng 4 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 5: Lấy 5 cộng 5 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 6: Lấy 4 cộng 6 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 7: Lấy 3 cộng 7 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 8: Lấy 2 cộng 8 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 9: Lấy 1 cộng 9 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Thêm phần nhớ cuối cùng 1 vào kết quả.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 1: Lấy 3 cộng 2 cộng với nhớ 0 được 5. Lưu 5 vào kết quả và nhớ 0.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 2: Lấy 2 cộng 1 cộng với nhớ 0 được 3. Lưu 3 vào kết quả và nhớ 0.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 3: Lấy 1 cộng 0 cộng với nhớ 0 được 1. Lưu 1 vào kết quả và nhớ 0.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 1: Lấy 9 cộng 1 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 2: Lấy 9 cộng 0 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Bước 3: Lấy 9 cộng 0 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:23:05 PM com.example.utils.MyBigNumber sum
+INFO: Thêm phần nhớ cuối cùng 1 vào kết quả.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 1: Lấy 1 cộng 9 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 2: Lấy 0 cộng 9 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Thêm phần nhớ cuối cùng 1 vào kết quả.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 1: Lấy 9 cộng 1 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 2: Lấy 8 cộng 2 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 3: Lấy 7 cộng 3 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 4: Lấy 6 cộng 4 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 5: Lấy 5 cộng 5 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 6: Lấy 4 cộng 6 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 7: Lấy 3 cộng 7 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 8: Lấy 2 cộng 8 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 9: Lấy 1 cộng 9 cộng với nhớ 1 được 11. Lưu 1 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Thêm phần nhớ cuối cùng 1 vào kết quả.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 1: Lấy 3 cộng 2 cộng với nhớ 0 được 5. Lưu 5 vào kết quả và nhớ 0.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 2: Lấy 2 cộng 1 cộng với nhớ 0 được 3. Lưu 3 vào kết quả và nhớ 0.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 3: Lấy 1 cộng 0 cộng với nhớ 0 được 1. Lưu 1 vào kết quả và nhớ 0.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 1: Lấy 9 cộng 1 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 2: Lấy 9 cộng 0 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Bước 3: Lấy 9 cộng 0 cộng với nhớ 1 được 10. Lưu 0 vào kết quả và nhớ 1.
+Nov 02, 2024 5:41:32 PM com.example.utils.MyBigNumber log
+INFO: Thêm phần nhớ cuối cùng 1 vào kết quả.
