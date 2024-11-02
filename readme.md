@@ -12,7 +12,6 @@ Dự án này sử dụng thư viện `MyBigNumberProject` để thực hiện p
 - `src/main/resources/templates`: Chứa các tệp HTML được tạo bởi Thymeleaf, bao gồm:
   - `calculator.html`: Trang nhập số cho phép cộng.
   - `result.html`: Trang hiển thị kết quả phép tính và lịch sử từng bước.
-- `src/main/resources/static`: Chứa các tài nguyên tĩnh (CSS, JS nếu cần).
 - `libs`: Chứa thư viện `.jar` của `MyBigNumberProject` được tích hợp vào ứng dụng để thực hiện phép tính.
 
 ## Yêu cầu hệ thống
