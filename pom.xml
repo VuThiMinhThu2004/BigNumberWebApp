@@ -4,6 +4,17 @@
     <groupId>com.example</groupId>
     <artifactId>MyBigNumberProject</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <dependencies>
+        <!-- Dependency cho JUnit 5 -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.7.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
     <build>
         <plugins>
             <plugin>
