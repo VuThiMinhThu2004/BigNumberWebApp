@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Calculation Result</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .indented-title {
+            margin-left: 1.5em; /* Căn lề vào so với tiêu đề chính */
+        }
+        .result-box, .steps-box {
+            padding: 1em;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-top: 0.5em;
+            background-color: #f9f9f9; /* Màu nền nhẹ cho box */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Calculation Result</h1>
+
+        <!-- Hiển thị chuỗi kết quả -->
+        <h3 class="indented-title">Result:</h3>
+        <div class="result-box indented-title">
+            <p th:text="${resultString}"></p>
+        </div>
+
+        <!-- Hiển thị các bước tính toán -->
+        <h3 class="indented-title">Calculation Steps:</h3>
+        <div class="steps-box indented-title">
+            <ul class="list-group">
+                <li class="list-group-item" th:each="step : ${history}" th:text="${step}"></li>
+            </ul>
+        </div>
+
+        <a href="/" class="btn btn-primary mt-3">Back</a>
+    </div>
+</body>
+</html>
