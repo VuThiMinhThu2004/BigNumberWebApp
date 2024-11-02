@@ -15,8 +15,5 @@ Dự án này cung cấp hàm `sum` trong lớp `MyBigNumber` để thực hiệ
 ## Cách build dự án
 1. Clone repository:
    ```bash
-   git clone https://github.com/VuThiMinhThu2004/MyBigNumberProject.git
+   git clone -b core https://github.com/VuThiMinhThu2004/BigNumberWebApp.git
    cd MyBigNumberProject
-   git remote add bigweb https://github.com/VuThiMinhThu2004/BigNumberWebApp.git
-   git checkout -b core
-   git push -u bigweb core
