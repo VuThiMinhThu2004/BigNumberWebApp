@@ -3,7 +3,7 @@
 ## Mô tả
 BigNumberWebApp là một ứng dụng web sử dụng Spring Boot, Thymeleaf và Bootstrap, cho phép người dùng nhập hai số lớn và thực hiện phép cộng như cách học sinh tiểu học thực hiện (từng bước cộng với giá trị nhớ). Kết quả và các bước tính toán sẽ được hiển thị trên giao diện web.
 
-Dự án này sử dụng thư viện `MyBigNumberProject` để thực hiện phép cộng hai số lớn.
+Dự án này sử dụng sub module `MyBigNumberProject` để thực hiện phép cộng hai số lớn.
 
 ## Cấu trúc thư mục
 
